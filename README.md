@@ -1,38 +1,25 @@
 ## Welcome to GitHub Pages
 Owned by King merlot
 
-You can use the [editor on GitHub](https://github.com/kingmerlot/kingmerlot.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### What is Yeagerists
+The Yeagerists are a rebel faction consisting of civilians and former soldiers from the Paradis military. 
+[Source](https://duniagames.co.id/discover/article/apa-itu-yeagerist-dan-siapa-saja-anggotanya/en)
 
-### Markdown
+### What exactly is the yeagerists plan/goal?
+Their initial goal was to reunite Eren Yeager with his half-brother, Zeke Yeager, and form the “New Eldian Empire” as well as assisting Eren in his effort of activating the Rumbling.
+> The two brothers have different goals from their plan                                    
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Zeke Plan
+Zeke's plan consists of sterilizing all of the Subjects of Ymir ( which means the Eldians) -- so that they won't be able to have offsprings, thus there will be no more Titans.
 
-```markdown
-Syntax highlighted code block
+### Eren Plan
+Eren's goal is to eliminate the entire world except for Paradis, but keeping his fellow Paradisans alive is also extremely important to him, especially his close friends. After all, the elimination of his 'enemies' means nothing if the people he wants to protect aren't safe when it's all over.
 
-# Header 1
-## Header 2
-### Header 3
+Eren Betrays Zeke
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Zor5_q__fSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-- Bulleted
-- List
+### Top Members of Yeagerists
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/kingmerlot/kingmerlot.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
