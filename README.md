@@ -40,5 +40,11 @@ Eren Betrays Zeke
 Eren Started The Rumbling
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Uwza8rHaPzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+### Why Did eren make that plan?
+ Eren's main goal is to protect the people inside of the walls, and he thinks that if he can eliminate all existing threats outside of the walls, Paradis will be safe for generations to come.
+ 
+ 
+### Is Eren Really become an antagonist?
+Eren reveals that he turned the bad guy so that he could make Armin and the alliance the heroes who saved humanity from extinction by stopping him. In short, he wanted to die at the hands of his friends in order to guarantee their freedom. He sacrificed his life and freedom for theirs.
 
 
