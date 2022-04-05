@@ -8,7 +8,8 @@ The Yeagerists are a rebel faction consisting of civilians and former soldiers f
 [Source](https://duniagames.co.id/discover/article/apa-itu-yeagerist-dan-siapa-saja-anggotanya/en)
 
 ### Top Members of yeagerist
-![Picture](https://api.duniagames.co.id/api/content/upload/file/13749722091614666150.jpg)
+<img src="https://static.wikia.nocookie.net/shingekinokyojin/images/b/bc/Yeagerists.png/revision/latest?cb=20181109003415" width="500" height="200">
+
 - Eren Yeager
 - Zeke Yeager
 - Flock Forster
@@ -33,6 +34,7 @@ Eren's goal is to eliminate the entire world except for Paradis, but keeping his
 
 Eren Betrays Zeke
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zor5_q__fSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 
 Eren Started The Rumbling
