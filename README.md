@@ -35,5 +35,6 @@ Eren Betrays Zeke
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zor5_q__fSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
-
+Eren Started The Rumbling
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Uwza8rHaPzw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
