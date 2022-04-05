@@ -7,6 +7,20 @@ Owned by King merlot
 The Yeagerists are a rebel faction consisting of civilians and former soldiers from the Paradis military. 
 [Source](https://duniagames.co.id/discover/article/apa-itu-yeagerist-dan-siapa-saja-anggotanya/en)
 
+### Top Members of yeagerist
+![Picture](https://api.duniagames.co.id/api/content/upload/file/13749722091614666150.jpg)
+- Eren Yeager
+- Zeke Yeager
+- Flock Forster
+- Yelena
+- onyankopon
+- Louise
+- Wim
+- Samuel
+- Holger
+- Daz
+- Phil
+
 ### What exactly is the yeagerists plan/goal?
 Their initial goal was to reunite Eren Yeager with his half-brother, Zeke Yeager, and form the “New Eldian Empire” as well as assisting Eren in his effort of activating the Rumbling.
 > The two brothers have different goals from their plan                                    
@@ -20,6 +34,6 @@ Eren's goal is to eliminate the entire world except for Paradis, but keeping his
 Eren Betrays Zeke
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Zor5_q__fSU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Top Members of Yeagerists
+
 
 
