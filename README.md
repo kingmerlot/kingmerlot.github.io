@@ -8,7 +8,7 @@ The Yeagerists are a rebel faction consisting of civilians and former soldiers f
 [Source](https://duniagames.co.id/discover/article/apa-itu-yeagerist-dan-siapa-saja-anggotanya/en)
 
 ### Top Members of yeagerist
-<img src="https://static.wikia.nocookie.net/shingekinokyojin/images/b/bc/Yeagerists.png/revision/latest?cb=20181109003415" width="500" height="200">
+![](https://static.wikia.nocookie.net/shingekinokyojin/images/b/bc/Yeagerists.png/revision/latest?cb=20181109003415)
 
 - Eren Yeager
 - Zeke Yeager
